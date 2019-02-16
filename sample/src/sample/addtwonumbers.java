@@ -13,5 +13,6 @@ public class addtwonumbers {
 	    y = in.nextInt();
 	    z = x + y;
 	    System.out.println("Sum of the integers = " + z);
+  System.out.println("Sum of the two integers = " + z);
 	}
 }
